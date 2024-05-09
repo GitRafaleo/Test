@@ -20,8 +20,8 @@ namespace GeneradorToken
         {
             // Your code here!
 
-            const string API_LOGIN_DEV = "TPP-EC-SERVER";
-            const string API_KEY_DEV = "mYmEhYuLxNkCZrw8FkFVTeZxx4rfY9";
+            const string API_LOGIN_DEV = "";
+            const string API_KEY_DEV = "";
 
             string server_application_code = API_LOGIN_DEV;
             string server_app_key = API_KEY_DEV;
