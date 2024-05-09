@@ -5,7 +5,7 @@
 ### Tercer Nivel
 
 👽
-<details>
+<details open>
 <summary>Top programacion</summary>
 
 | Rank | THING-TO-RANK |
