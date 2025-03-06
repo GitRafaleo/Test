@@ -13,6 +13,7 @@
 |     1|      SQL      |
 |     2|       C#      |
 |     3|       JAVA    |
+|     4|      Python   |
 
 
 </details>
